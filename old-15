@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Mon, 04 Apr 2022 14:00:27 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Length: 184
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>Challenge 15</title>
+</head>
+<body>
+<script>
+  alert("Access_Denied");
+  location.href='/';
+  document.write("<a href=?getFlag>[Get Flag]</a>");
+</script>
+</body>
