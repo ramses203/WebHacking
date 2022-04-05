@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Tue, 05 Apr 2022 13:23:43 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Length: 262
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>Challenge 6</title>
+<style type="text/css">
+body { background:black; color:white; font-size:10pt; }
+</style>
+</head>
+<body>
+<hr><a href=./?view_source=1 style=color:yellow;>view-source</a><br><br>ID : guest<br>PW : 123qwe<hr></body>
+</html>
