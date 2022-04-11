@@ -64,3 +64,6 @@ mysql_query( string $query [, resource $link_identifier]) : link_identifier로 �
 
 
 출처: https://winkite1226.tistory.com/112 [고양이 퍼레이드]
+
+
+04-11
