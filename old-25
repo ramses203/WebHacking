@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Date: Sun, 08 May 2022 10:52:09 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Vary: Accept-Encoding
+Content-Length: 601
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=euc-kr">
+<title>Challenge 25</title>
+<style type="text/css">
+body { background:black; color:white; font-size:10pt; }
+textarea { background:silver; color:black; fnot-size:9pt; }
+</style>
+</head>
+<body>
+<pre>total 20
+drwxr-xr-x 2 root root 4096 Aug 24  2019 .
+drwxr-xr-x 3 root root 4096 Aug 24  2019 ..
+-rw-r--r-- 1 root root   82 Aug 24  2019 flag.php
+-rw-r--r-- 1 root root   31 Aug 24  2019 hello.php
+-rw-r--r-- 1 root root  605 Aug 24  2019 index.php
+</pre><hr><textarea rows=10 cols=100>hello world</textarea></body>
+</html>
